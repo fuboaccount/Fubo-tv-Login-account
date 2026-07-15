@@ -2,13 +2,15 @@ How to Login Fubo TV Account? A Complete Guide
 =============================================
 
 Logging in to your Fubo TV account gives you instant access to live sports, entertainment, news, and on-demand content. Whether you're using a web browser, smartphone, tablet, smart TV, or streaming device, signing in is quick and secure. This guide walks you through the login process and offers solutions to common sign-in issues.
+
+
 .. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
    :target: https://aclogportal.net/
    :alt: Login Now Button
-How to Login to Your Fubo TV Account
-------------------------------------
+
+
 
 Follow these simple steps to access your Fubo TV account:
 
